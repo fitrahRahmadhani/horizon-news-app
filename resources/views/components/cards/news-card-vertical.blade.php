@@ -2,7 +2,7 @@
   class="w-full h-full flex flex-col cursor-pointer group"
   href=""
 >  
-  <div class="h-[250px] rounded-lg overflow-hidden">
+  <div class="h-[250px] rounded-xl overflow-hidden">
     <img 
       class="w-full h-full object-cover transition-transform duration-300 ease-out group-hover:scale-110"
       src="http://imageipsum.com/1200x675" 

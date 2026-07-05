@@ -2,7 +2,7 @@
   <form
     action=""
     class="max-w-[1440px] mx-auto p-8">
-      <div class="w-full flex flex-col lg:grid lg:grid-cols-3 items-center gap-6 p-6 lg:p-8 bg-gray-100 rounded-lg">
+      <div class="w-full flex flex-col lg:grid lg:grid-cols-3 items-center gap-6 p-6 lg:p-8 bg-gray-100 rounded-xl">
 
         {{-- Text --}}
         <div class="col-span-2 text-center lg:text-left">

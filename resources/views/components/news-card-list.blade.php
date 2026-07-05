@@ -10,9 +10,9 @@
       </a>
     </div>
     <div class="w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
-      <x-cards.news-card />
-      <x-cards.news-card />
-      <x-cards.news-card />
+      <x-cards.news-card-vertical />
+      <x-cards.news-card-vertical />
+      <x-cards.news-card-vertical />
     </div>
   </div>
 </section>

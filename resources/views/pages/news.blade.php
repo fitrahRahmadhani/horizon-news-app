@@ -4,7 +4,7 @@
   <div class="mx-auto max-w-[1440px]">
     {{-- Breadcrumb --}}
     <x-breadcrumb
-      class="my-4 px-8 sm:px-6 lg:px-8"
+      class="my-4 px-8"
       :items="[
           ['label' => 'Home', 'url' => route('home')],
           ['label' => 'Sports', 'url' => route('home')],
@@ -111,7 +111,7 @@
     {{-- Body & Ad --}}
     <div class="grid w-full grid-cols-1 gap-8 px-8 pt-6 sm:px-6 lg:grid-cols-3 lg:gap-10 lg:px-8">
       <div
-        class="col-span-1 flex max-w-[70ch] flex-col gap-5 text-base leading-7 text-gray-700 sm:text-lg sm:leading-8 lg:col-span-2"
+        class="col-span-1 flex flex-col gap-5 text-base leading-7 text-gray-700 sm:text-lg sm:leading-8 lg:col-span-2"
       >
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. In minima aliquid harum iusto. Sint voluptates consequatur recusandae voluptate numquam, quos, sequi officia odit sed magni cum veniam dolorum nostrum unde accusamus ratione aut architecto eligendi. Ipsa quos hic doloribus, blanditiis ullam velit harum molestiae ducimus fuga dolorum facere perferendis alias maxime adipisci labore atque quidem quisquam itaque ratione quam.</p>
 
